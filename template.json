@@ -1,0 +1,5 @@
+{
+	"name": "Vite React JavaScript (SWC) Tailwind CSS DaisyUI Template",
+	"description": "Un template para iniciar proyectos con Vite, React, JavaScript (SWC), Tailwind CSS y DaisyUI",
+	"postCreateCommand": "npm install"
+}
