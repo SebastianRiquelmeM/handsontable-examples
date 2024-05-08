@@ -1,5 +1,6 @@
 import React from "react";
-import FirstComponent from "./components/FirstComponent";
+import PeopleTable from "./components/PeopleTable";
+import BasicExample from "./components/BasicExample";
 
 const App = () => {
 	return (
@@ -7,7 +8,8 @@ const App = () => {
 			<h1 className="text-6xl font-bold mb-4 text-center text-accent-content">
 				Project Title
 			</h1>
-			<FirstComponent />
+			<BasicExample />
+			<PeopleTable />
 		</div>
 	);
 };
